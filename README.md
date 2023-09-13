@@ -9,9 +9,7 @@ BATCH: DTM4
 DOMAIN : DATA SCIENCE
 
 
-DEMO VIDEO URL: https://www.youtube.com/watch?v=BKJXhXDjDuA
-
-LINKED IN URL : 
+DEMO VIDEO URL: https://www.youtube.com/watch?v=BKJXhXDjDuA 
 
 The application should have the following features: 
 
